@@ -1,5 +1,7 @@
 # WBDeviceInfo
 
+> 只支持 `iPhone` 和 `iPad` 最新设备
+
 可以获取设备名称 例如@"iPhone XR"
 
 ## 使用
