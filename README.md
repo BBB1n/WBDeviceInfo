@@ -4,6 +4,8 @@
 
 可以获取设备名称 例如@"iPhone XR"
 
+**已更新到iPad mini 5 和 iPad Air 3**
+
 ## 使用
 
 1. 下载 `WBDeviceManager` 文件夹拖入项目使用。
