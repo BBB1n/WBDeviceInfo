@@ -53,6 +53,9 @@
     if ([deviceModel isEqualToString:@"iPhone11,2"])   return @"iPhone XS";
     if ([deviceModel isEqualToString:@"iPhone11,6"])   return @"iPhone XS Max";
     if ([deviceModel isEqualToString:@"iPhone11,8"])   return @"iPhone XR";
+    if ([deviceModel isEqualToString:@"iPhone12,1"])   return @"iPhone 11";
+    if ([deviceModel isEqualToString:@"iPhone12,3"])   return @"iPhone 11 Pro";
+    if ([deviceModel isEqualToString:@"iPhone12,5"])   return @"iPhone 11 Pro Max";
     
 #pragma mark iPad
     
