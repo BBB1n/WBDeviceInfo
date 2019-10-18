@@ -110,6 +110,8 @@
         [deviceModel isEqualToString:@"iPad11,4"])      return @"iPad Air 3";
     if ([deviceModel isEqualToString:@"iPad11,1"] ||
         [deviceModel isEqualToString:@"iPad11,2"])      return @"iPad Mini 5";
+    if ([deviceModel isEqualToString:@"iPad7,11"] ||
+        [deviceModel isEqualToString:@"iPad7,12"])       return @"iPad 10.2";
     
 #pragma mark Simulator
     

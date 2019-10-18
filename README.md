@@ -2,9 +2,9 @@
 
 > 只支持 `iPhone` 和 `iPad` 最新设备
 
-可以获取设备名称 例如@"iPhone XR"
+可以获取设备名称 例如@"iPhone 11 Pro Max"
 
-**已更新到iPad mini 5 和 iPad Air 3**
+**已更新到iPad 10.2 和 iPhone 11系列**
 
 ## 使用
 
