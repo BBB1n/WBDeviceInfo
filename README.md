@@ -4,7 +4,7 @@
 
 可以获取设备名称 例如@"iPhone 11 Pro Max"
 
-**已更新到iPad 10.2 和 iPhone 11系列**
+**已更新到 iPad Pro 11 Gen2 、iPad Pro 12.9 Gen4  和 iPhone SE Gen2**
 
 ## 使用
 

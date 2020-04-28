@@ -56,6 +56,7 @@
     if ([deviceModel isEqualToString:@"iPhone12,1"])   return @"iPhone 11";
     if ([deviceModel isEqualToString:@"iPhone12,3"])   return @"iPhone 11 Pro";
     if ([deviceModel isEqualToString:@"iPhone12,5"])   return @"iPhone 11 Pro Max";
+    if ([deviceModel isEqualToString:@"iPhone12,8"])   return @"iPhone SE Gen2";
     
 #pragma mark iPad
     
@@ -112,6 +113,10 @@
         [deviceModel isEqualToString:@"iPad11,2"])      return @"iPad Mini 5";
     if ([deviceModel isEqualToString:@"iPad7,11"] ||
         [deviceModel isEqualToString:@"iPad7,12"])       return @"iPad 10.2";
+    if ([deviceModel isEqualToString:@"iPad8,9"] ||
+        [deviceModel isEqualToString:@"iPad8,10"])       return @"iPad Pro 11 Gen2";
+    if ([deviceModel isEqualToString:@"iPad8,11"] ||
+        [deviceModel isEqualToString:@"iPad8,12"])       return @"iPad Pro 12.9 Gen4";
     
 #pragma mark Simulator
     
