@@ -8,7 +8,11 @@
 
 ## 使用
 
-1. 下载 `WBDeviceManager` 文件夹拖入项目使用。
-2. 博客中直接复制。
+1. 推荐CocoaPods安装, 后续更新方便
+```
+pod 'WBDeviceInfo'
+```
+2. 下载 `WBDeviceManager` 文件夹拖入项目使用。
+3. 博客中直接复制。
 
 Blog地址：https://blog.csdn.net/zWbKingGo/article/details/88025731
