@@ -1,5 +1,8 @@
 # WBDeviceInfo
 
+⚠️**2020-7-10更新**
+**已停止维护**
+
 > 只支持 `iPhone` 和 `iPad` 最新设备
 
 可以获取设备名称 例如@"iPhone 11 Pro Max"
